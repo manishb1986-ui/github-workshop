@@ -1,0 +1,35 @@
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.324 try { . "c:\Users\mbhargava\AppData\Local\Programs\Microsoft VS Code\f6cfa2ea24\resources\app\out\vs\w…
+   2        0.624 & C:\Users\mbhargava\AppData\Local\Programs\Python\Python314\python.exe c:/github-workshop/testing.py
+   3        0.598 python testing.py
+   4        0.082 clear
+   5        0.409 ls -l
+   6        0.066 ls
+   7        0.893 git init
+   8        0.033  dir
+   9        3.333 sir
+  10        0.024 dir
+  11        0.057 ls -a
+  12        0.041 dir -hidden
+  13        0.008 dir
+  14        0.018 dir -hidden
+  15        0.785 git status
+  16        0.738 git add .\testing.py
+  17        0.766 git status
+  18        1.881 git commit -m "added testing file"
+  19        0.711 git status
+  20        0.036 rm .\testing.py
+  21        0.671 git status
+  22        0.649 git restore testing.py
+  23        0.112 history
+  24        0.778 git status
+  25        0.666 git add .\git-command.txt
+  26        0.718 git status
+  27        1.086 git commit -m "add the command file"
+  28        0.773 git remote add origin https://github.com/manishb1986-ui/github-workshop.git
+  29        0.686 git remote -v
+  30        3.880 git push origin master
+  31        0.639 git status
+  32        9.127 git push origin main
+  33        0.746 git remote -v
