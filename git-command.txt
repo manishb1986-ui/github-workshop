@@ -33,3 +33,14 @@
   31        0.639 git status
   32        9.127 git push origin main
   33        0.746 git remote -v
+  46        4.495 git clone https://github.com/LondheShubham153/ssh-repo-test.git
+  47        0.011 dir
+  48        0.039 cd .\demo\
+  49        0.009 dir
+  50        0.003 dir
+  51        0.021 dir -hidden
+  52        0.041 cd..
+  53        0.047 dir
+  54        0.041 cd .\ssh-repo-test\
+  55        0.024 dir
+  56        0.003 cd..
