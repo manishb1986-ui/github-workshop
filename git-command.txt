@@ -44,5 +44,32 @@
   54        0.041 cd .\ssh-repo-test\
   55        0.024 dir
   56        0.003 cd..
-
-there is some changes
+  57        0.069 history
+  58        0.026 clear
+  59        0.582 git status
+  60        0.579 git status
+  61        0.640 git add .\git-command.txt
+  62        1.153 git commit -m "add the command file"
+  63        8.306 git push origin main
+  64        0.655 git status
+  65        4.146 git pull origin main
+  66        2.273 git branch
+  67        0.586 git branch dev
+  68        0.898 git branch
+  69        0.502 git switch dev
+  70        0.703 git status
+  71        0.593 git status
+  72        0.430 git add .\this_is_from_dev.txt
+  73        1.956 git commit -m "add the file in the dev branch"
+  74        0.589 git status
+  75        0.505 git switch main
+  76     3:33.952 git log
+  77        0.731 git log --online
+  78        1.110 git log --oneline
+  79        0.523 git status
+  80        0.684 git switch dev
+  81        0.633 git staus
+  82        0.550 git status
+  83        0.775 git log --oneline
+  84        9.474 git push origin dev
+  85        0.027 clear
